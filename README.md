@@ -1,6 +1,6 @@
 # bullishapi
 
-This project was created using Eclipse. 
+The project `bullishtest` was created using Eclipse. 
 
 ## Contents of the project
 Feature files are found in src/test/resources/bullishtest/ 
