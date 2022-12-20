@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: bullishtest.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.292 s - in bullishtest.RunCucumberTest
